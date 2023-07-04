@@ -102,3 +102,6 @@ not seem worth it here.
 - RAM512 = 332470 transistors + 8192\*DFF
 - RAM4K = 2662070 transistors + 65536\*DFF
 - RAM16K = 10649270 transistors + 262144\*DFF
+
+
+Constructed an adder chip and ALU,Used a DFlip Flop circuit, which enables storing state in a chip, Created Hack assembler in Python to translate Hack Assembly Language into Hack Binary Machine Language, Created a personal finance command line program in Jack, implemented compiler for translation of high-level Jack language into VM langauge, Wrote Operating System classes to "ship" with Hack / Jack platform.
