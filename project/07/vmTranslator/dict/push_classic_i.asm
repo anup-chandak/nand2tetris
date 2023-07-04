@@ -1,0 +1,12 @@
+// Push CLASSIC I
+@I
+D=A
+@CLASSIC
+D=M+D
+A=D
+D=M
+@SP
+A=M
+M=D
+@SP
+M=M+1
